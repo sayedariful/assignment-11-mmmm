@@ -1,0 +1,66 @@
+[
+    {
+        "_id": "1",
+        "image": "https://i.ibb.co/TbvfzSX/Rectangle-33.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+        
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "2",
+        "image": "https://i.ibb.co/P9SVzvg/Rectangle-32-1.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "3",
+        "image": "https://i.ibb.co/CVhVZ9Y/Rectangle-32-2.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+    
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "4",
+        "image": "https://i.ibb.co/gTSDH8Q/Rectangle-42.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+      
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "5",
+        "image": "https://i.ibb.co/hFs1xLb/Rectangle-32.jpg",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+       
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "7",
+        "image": "https://i.ibb.co/Pg4jQwg/Rectangle-32-5.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+       
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "8",
+        "image": "https://i.ibb.co/f0r2hw8/Rectangle-32-6.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+       
+        "get_quote": "Get A Quote"
+    },
+    {
+        "_id": "6",
+        "image": "https://i.ibb.co/vz4wXBn/Rectangle-32-3.png",
+        "card_title": "AWS Certified solutions Architect",
+        "description": "Master the latest in software development, IT ops, AI, machine learning, security & more. Start learning today with a free 10 day trial! Role IQ. Hands-on Learning. Skill Assessments.",
+       
+        "get_quote": "Get A Quote"
+    }
+]

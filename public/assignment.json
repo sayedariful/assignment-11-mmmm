@@ -1,0 +1,50 @@
+[
+    {
+        "_id": 1,
+        "img": "https://i.ibb.co/TbvfzSX/Rectangle-33.png",
+        "title": "Shared Wisdom: A Collective Exploration of [Subject/Topic]",
+        "description": "represents a collaborative learning endeavor where participants pool their knowledge"
+    },
+    {
+        "_id": 2,
+        "img": "https://i.ibb.co/P9SVzvg/Rectangle-32-1.png",
+        "title": "Team Intellect: Collaborative Learning in [Subject/Topic]",
+        "description": "signifies a collective effort where individuals with diverse intellectual strengths collaborate to delve into a specific subject or topic. Through shared expertise,"
+    },
+    {
+        "_id": 3,
+        "img": "https://i.ibb.co/CVhVZ9Y/Rectangle-32-2.png",
+        "title": "Harmony in Learning: Navigating [Subject/Topic] Together",
+        "description": "represents a collaborative learning journey where participants work together in sync, "
+    },
+    {
+        "_id": 4,
+        "img": "https://i.ibb.co/gTSDH8Q/Rectangle-42.png",
+        "title": "The Brainwave Brigade: Mastering [Subject/Topic] as One",
+        "description": "encapsulates a dynamic, unified learning approach where participants synchronize their intellectual energies to master a specific subject or topic"
+    },
+    {
+        "_id": 5,
+        "img": "https://i.ibb.co/hFs1xLb/Rectangle-32.jpg",
+        "title": "Unity in Knowledge: Unraveling [Subject/Topic] Through Teamwork",
+        "description": "signifies a collaborative learning experience where participants unite their efforts to explore and understand a specific subject or topic."
+    },
+    {
+        "_id": 6,
+        "img": "https://i.ibb.co/Pg4jQwg/Rectangle-32-5.png",
+        "title": "Collective Insight: A Deep Dive into [Subject/Topic] with Peers",
+        "description": "represents a collaborative learning endeavor where participants delve deeply into a specific subject or topic together. Through open dialogue, shared knowledge,"
+    },
+    {
+        "_id": 7,
+        "img": "https://i.ibb.co/f0r2hw8/Rectangle-32-6.png",
+        "title": "Synchronized Scholars: Advancing in [Subject/Topic] Through Group Study",
+        "description": "embodies a collaborative learning experience where participants work in perfect harmony,"
+    },
+    {
+        "_id": 8,
+        "img": "https://i.ibb.co/vz4wXBn/Rectangle-32-3.png",
+        "title": "Collaborative Quest: Exploring [Subject/Topic] Together for Excellence",
+        "description": "encapsulates a shared learning adventure where participants collaborate to explore and excel in a specific subject or topic. Through teamwork,"
+    }
+]

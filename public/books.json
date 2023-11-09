@@ -1,0 +1,43 @@
+[
+    {
+      "_id": 1,
+      "name": "Alpha Book Publisher",
+      "img": "https://i.ibb.co/QKk4V7T/download.png"
+    },
+    {
+      "id": 2,
+      "name": "Parama Publishers & Distributors",
+      "img": "https://i.ibb.co/gSWwk1W/download-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The University Press Limited (UPL)",
+      "img": "https://i.ibb.co/XbsgqpY/The-University-Press-Limited.png"
+    },
+    {
+      "id": 4,
+      "name": "Nymphea Publication",
+      "img": "https://i.ibb.co/9h46jyj/2016-07-Bangladesh-Cover.png"
+    },
+    {
+      "id": 5,
+      "name": "Al Fatah Publications",
+      "img": "https://i.ibb.co/zFktX3J/Alim-Suggestion-2023-Cover-362x489-1.webp"
+    },
+    {
+      "id": 6,
+      "name": "SEAN Publication",
+      "img": "https://i.ibb.co/pbdVsS9/download-1.png"
+    },
+    {
+      "id": 7,
+      "name": "Kathaprokash",
+      "img": "https://i.ibb.co/4ZgcRz5/download-2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Adorn Publication ",
+      "img": "https://i.ibb.co/pjjym0N/adorn-logo.png"
+    }
+  ]
+  
